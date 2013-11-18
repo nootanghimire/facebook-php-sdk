@@ -1,3 +1,8 @@
+
+Add API Keys and upload to server (http://nootan.com.np/others/voting/index.php) :)
+
+
+
 Facebook PHP SDK (v.3.2.2)
 
 The [Facebook Platform](http://developers.facebook.com/) is
